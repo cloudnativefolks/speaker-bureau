@@ -1,2 +1,2 @@
-# speaker-bureau
- First and Largest CloudNativeFolks Speakers Forum
+# CloudNativeFolks Speaker Bureau
+> First and Largest CloudNativeFolks Speakers Forum
