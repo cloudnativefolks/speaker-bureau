@@ -6,18 +6,18 @@
 
 ◉ DevSecOps Conf 2021 | Powered by CloudNativeFolks Community -  Virtual Event - May 22, 2021
 
-[🔻Bringing DevSecOps To The World - John Kinsella]() <br>
-[🔻Think Your Applications and APIs Are Secure? They Aren't- Dan Gordon]() <br>
-[🔻Stranger Danger: Finding Security Vulnerabilities Before They Find You! - DeveloperSteve Coochin]() <br>
-[🔻Bringing DevSecOps into your development environments with Okteto- Abdulazeez Abdulazeez Adeshina]() <br> 
-[🔻Secure deployments with HashiCorp Vault - Roberth Strand]() <br>
-[🔻Configuration synchronisation vs Immutable infrastructure - what is the best for today and what will we use tomorrow? - Andrey Devyatkin]() <br> 
-[🔻Security for cloud native workloads Runcy Oommen]() <br> 
-[🔻GitOps, The Next Big Thing for DevOps and Automation! Aditya Soni]() <br> 
-[🔻Pragmatic App Migration to the Cloud: Quarkus, Kotlin, Hazelcast and GraalVM in action Nicolas Frankel]() <br> 
-[🔻Docker Container Security 101 Gaurav Gahlot]() <br> 
-[🔻Simplify deployment using ArgoCD at RudderStack - Mitesh Sharma]() <br> 
-[🔻Setting up mTLS for Client-Server powered with gRPC (Golang and NodeJs) Mahendra Bagu]() <br> 
+[🔻Bringing DevSecOps To The World - John Kinsella](https://youtu.be/hOspzVbuPfc?t=668) <br>
+[🔻Think Your Applications and APIs Are Secure? They Aren't- Dan Gordon](https://youtu.be/hOspzVbuPfc?t=2562) <br>
+[🔻Stranger Danger: Finding Security Vulnerabilities Before They Find You! - DeveloperSteve Coochin](https://youtu.be/hOspzVbuPfc?t=4695) <br>
+[🔻Bringing DevSecOps into your development environments with Okteto- Abdulazeez Abdulazeez Adeshina](https://youtu.be/hOspzVbuPfc?t=6593) <br> 
+[🔻Secure deployments with HashiCorp Vault - Roberth Strand](https://youtu.be/hOspzVbuPfc?t=8406) <br>
+[🔻Configuration synchronisation vs Immutable infrastructure - what is the best for today and what will we use tomorrow? - Andrey Devyatkin](https://youtu.be/hOspzVbuPfc) <br> 
+[🔻Security for cloud native workloads Runcy Oommen](https://www.youtube.com/watch?v=hOspzVbuPfc&t=664s) <br> 
+[🔻GitOps, The Next Big Thing for DevOps and Automation! Aditya Soni](https://youtu.be/hOspzVbuPfc?t=15269) <br> 
+[🔻Pragmatic App Migration to the Cloud: Quarkus, Kotlin, Hazelcast and GraalVM in action Nicolas Frankel](https://youtu.be/hOspzVbuPfc?t=16438) <br> 
+[🔻Docker Container Security 101 Gaurav Gahlot](https://youtu.be/hOspzVbuPfc?t=18178) <br> 
+[🔻Simplify deployment using ArgoCD at RudderStack - Mitesh Sharma](https://youtu.be/hOspzVbuPfc?t=20353) <br> 
+[🔻Setting up mTLS for Client-Server powered with gRPC (Golang and NodeJs) Mahendra Bagu](https://www.youtube.com/watch?v=g7ti09aFsXs&t=2227s) <br> 
 
 
 ◉ DevOps India Conference 2021 | Powered by CloudNativeFolks Community -  Virtual Event - Aug 28, 2021
