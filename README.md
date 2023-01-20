@@ -64,4 +64,4 @@
                                                                                                                   
 
 ### Contributor 
-all events and everything hosted and orgnized by [Sangam Biradar](https://github.com/sangam14) with his own money to really empower community donate eduation not doing for money and follower ! please don't contact me for any sponsership not interested ! 🙏 Do you want to deliver a talk at the CloudNativeFolks Community ? Great! Please enter your suggested topic in [CFP Open]()
+All events and everything hosted and orgnized by [Sangam Biradar](https://github.com/sangam14) with his own money to really empower community donate eduation not doing for money and follower ! Please don't contact me for any sponsorship not interested ! 🙏 Do you want to deliver a talk at the CloudNativeFolks Community ? Great! Please enter your suggested topic in [CFP Open]()
