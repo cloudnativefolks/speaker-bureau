@@ -73,7 +73,7 @@
 [🔻 Monitor Kubernetes Clusters using Promotheus , Grafana & Alert Framework - Sagar Utekar]() <br>
 [🔻 Observability of Microservices using Open Source Solutions - Shubham Srivastava ]() <br>
 
-◉ DevSecOps Conf 2022 | Powered by CloudNativeFolks Community - Virtual Event -  Sat, Jul 8, 2023, 9:00 AM IST coming soon 
+◉ DevSecOps Conf 2023 | Powered by CloudNativeFolks Community - Virtual Event -  Sat, Jul 8, 2023, 9:00 AM IST coming soon 
 
 ### Contributor 
 All events and everything hosted and orgnized by [Sangam Biradar](https://github.com/sangam14) with his own money to really empower community donate eduation not doing for money and follower ! Please don't contact me for any sponsorship not interested ! 🙏 Do you want to deliver a talk at the CloudNativeFolks Community ? Great! Please enter your suggested topic in [CFP Open]()
